@@ -1,3 +1,5 @@
+# Test of a Hermes coding agent (without burning too many tokens)
+
 # hermes-checkers
 
 Playable **American checkers** (8×8 draughts) built as a Hermes **coder** profile demo: small Python package, tests, and a terminal UI for two players on one keyboard.
