@@ -1,0 +1,16 @@
+[project]
+name = "hermes-checkers"
+version = "0.1.0"
+description = "Playable American checkers (draughts) for the Hermes coder profile"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[project.scripts]
+hermes-checkers = "checkers.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
