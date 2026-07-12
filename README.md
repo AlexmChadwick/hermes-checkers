@@ -1,4 +1,4 @@
-# Test of a Hermes coding agent (without burning too many tokens)
+Test of a Hermes coding agent (without burning too many tokens)
 
 # hermes-checkers
 
